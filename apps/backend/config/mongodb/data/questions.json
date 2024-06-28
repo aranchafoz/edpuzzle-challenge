@@ -1,0 +1,46 @@
+[
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60befc" },
+    "text": "What three things do you need to remember from this video?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf01" },
+    "text": "What school does Grace belong to?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60befb" },
+    "text": "Do you usually use videos to learn by yourself? What challenges do you imagine exist when using videos in a classroom context?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf02" },
+    "text": "How many ways are there to share edpuzzled videos?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf06" },
+    "text": "Have you watched this great presentation about the why hooks were added to React?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf04" },
+    "text": "Before you watch the video, how do you think we can find Big Ideas videos on Edpuzzle?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf09" },
+    "text": "Are you using promises in your code challenge? Why are you or are you not"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf0b" },
+    "text": "What extra information does Edpuzzle provide about the progress of your students?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf0e" },
+    "text": "When you were in the classroom, were all the students participating on a daily basis?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60bf08" },
+    "text": "How often have you regretted your technical choices months after you made them?"
+  },
+  {
+    "_id": { "$oid": "6571d5eb9da707e4ab60beff" },
+    "text": "If you don't know how to answer a question, what should you do?"
+  }
+]

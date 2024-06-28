@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:5
+    container_name: code-challenge
+    ports:
+      - '27021:27017'
+    volumes:
+      - ./mongodb/scripts:/docker-entrypoint-initdb.d
+      - ./mongodb/data:/tmp/data
